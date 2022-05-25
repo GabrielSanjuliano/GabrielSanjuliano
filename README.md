@@ -1,12 +1,13 @@
-<h1>Hey! <img src-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />Gabriel Marques Sanjuliano</h1>
+<h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Gabriel Marques Sanjuliano</h1>
+
 <p>Web Developer. Enthusiast of web and mobile development technologies.</p>
 <p>Passionate about programming and cool designs.</p>
 
-<h1>Connect with me:</h1>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSanjuliano&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSanjuliano&layout=compact&theme=radical)](https://github.com/GabrielSanjuliano/github-readme-stats)
+ ---
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+web+developer)](https://git.io/typing-svg)
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,linux,html,css,firebase,git,github,angular)](https://skillicons.dev)
  
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Herick%20Exterkoetter-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herick-exterkoetter-197496195/)](https://www.linkedin.com/in/herick-exterkoetter-197496195/) 
-[![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herickherick47@gmail.com)
-
----
-<img align="center" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
- -->
+ <a href = "mailto:gmsanjuliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gmsanjuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
