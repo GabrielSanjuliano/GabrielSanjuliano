@@ -7,7 +7,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSanjuliano&layout=compact&theme=radical)](https://github.com/GabrielSanjuliano/github-readme-stats)
  ---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+web+developer)](https://git.io/typing-svg)
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,linux,html,css,firebase,git,github,angular)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,prisma,vite,tailwind,linux,html,css,firebase,git,github,angular)](https://skillicons.dev)
  
  <a href = "mailto:gmsanjuliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gmsanjuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
