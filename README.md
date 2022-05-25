@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel Marques Sanjuliano
+- 👀 I’m interested in learn and work with Web development
+- 🌱 I’m currently learning React.js, Next.js and React Native
+- 💞️ I’m looking to collaborate on everything i can do
+- 📫 How to reach me gmsanjuliano@gmail.com
