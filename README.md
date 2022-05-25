@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Gabriel Marques Sanjuliano
-- 👀 I’m interested in learn and work with Web development
-- 🌱 I’m currently learning React.js, Next.js and React Native
-- 💞️ I’m looking to collaborate on everything i can do
-- 📫 How to reach me gmsanjuliano@gmail.com
+<h1>Hey! <img src-"https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611c33a738df3e2640f9ba28df5cf4fc9a96575a18d&rid=giphy.gif&ct=s" />Gabriel Marques Sanjuliano</h1>
+<p>Web Developer. Enthusiast of web and mobile development technologies.</p>
+<p>Passionate about programming and cool designs.</p>
+
+<h1>Connect with me:</h1>
+ 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Herick%20Exterkoetter-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herick-exterkoetter-197496195/)](https://www.linkedin.com/in/herick-exterkoetter-197496195/) 
+[![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herickherick47@gmail.com)
+
+---
+<img align="center" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
+ -->
