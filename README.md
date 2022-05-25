@@ -1,4 +1,4 @@
-<h1>Hey! <img src-"https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611c33a738df3e2640f9ba28df5cf4fc9a96575a18d&rid=giphy.gif&ct=s" />Gabriel Marques Sanjuliano</h1>
+<h1>Hey! <img src-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />Gabriel Marques Sanjuliano</h1>
 <p>Web Developer. Enthusiast of web and mobile development technologies.</p>
 <p>Passionate about programming and cool designs.</p>
 
