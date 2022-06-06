@@ -3,8 +3,11 @@
 <p>Web Developer. Enthusiast of web and mobile development technologies.</p>
 <p>Passionate about programming and cool designs.</p>
 
+<div>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSanjuliano&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSanjuliano&layout=compact&theme=radical)](https://github.com/GabrielSanjuliano/github-readme-stats)
+</div>
+ 
  ---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+web+developer)](https://git.io/typing-svg)
  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,prisma,vite,tailwind,linux,html,css,firebase,git,github,angular)](https://skillicons.dev)
