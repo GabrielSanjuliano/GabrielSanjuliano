@@ -8,7 +8,7 @@
  
  ---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Developer)](https://git.io/typing-svg)
- [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,nodejs,react,nextjs,remix,vue,nuxt,angular,prisma,vite,tailwind,git,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,nodejs,react,nextjs,remix,vue,nuxt,angular,prisma,tailwind,git,figma)](https://skillicons.dev)
  
  <a href = "mailto:gmsanjuliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gmsanjuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
