@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=header"/>
+
 <h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Gabriel Marques Sanjuliano</h1>
 
 <p>Web Developer. Enthusiast of web and mobile development technologies.</p>
@@ -16,3 +18,5 @@
  ---
  
  ![Snake animation](https://github.com/GabrielSanjuliano/GabrielSanjuliano/blob/main/github-contribution-grid-snake.svg)
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer"/>
