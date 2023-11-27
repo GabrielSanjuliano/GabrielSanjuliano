@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14b8a6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Gabriel+Marques;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -13,4 +13,4 @@
  <a href = "mailto:gmsanjuliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gmsanjuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=120&section=footer"/>
