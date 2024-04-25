@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f59e0b&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Gabriel+Marques;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSanjuliano&show_icons=true&count_private=true&hide_border=true&title_color=ef4444&icon_color=f87171&text_color=dc2626&bg_color=0d1117" alt="Gabriel Sanjuliano github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSanjuliano&show_icons=true&count_private=true&hide_border=true&title_color=4f46e5&icon_color=f87171&text_color=dc2626&bg_color=0d1117" alt="Gabriel Sanjuliano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSanjuliano&layout=compact&hide_border=true&title_color=ef4444&text_color=dc2626&bg_color=0d1117" />
 </div>
 
