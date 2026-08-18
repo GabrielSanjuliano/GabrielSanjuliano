@@ -46,18 +46,6 @@ I like learning by building — experimenting with new technologies, creating pr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSanjuliano&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSanjuliano&layout=compact&hide_border=true&langs_count=8&title_color=FF3B3B&text_color=FFFFFF&bg_color=0D1117"/>
-
-</div>
-
----
-
 ## 🧰 My Stack
 
 <div align="center">
