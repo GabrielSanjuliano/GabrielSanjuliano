@@ -1,8 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=header&text=Gabriel%20Marques&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=header&text=Gabriel%20Sanjuliano&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
-
-# 🔥 Gabriel Marques
 
 ### Full Stack Developer • Web Developer • Mobile Developer
 
